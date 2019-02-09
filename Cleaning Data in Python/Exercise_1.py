@@ -22,3 +22,16 @@ print(df.columns)
 # Print the head and tail of df_subset
 print(df_subset.head())
 print(df_subset.tail())
+
+
+
+#2
+# Print the info of df
+print(df.info())
+
+# Print the info of df_subset
+print(df_subset.info())
+
+
+
+#3
